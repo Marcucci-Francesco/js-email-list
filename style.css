@@ -6,4 +6,13 @@
 
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: rgb(177, 175, 175);
+}
+
+.container-fm{
+  list-style: none;
+  max-width: 800px;
+  min-height: 200px;
+  background-color: white;
+  margin-top: 70px;
 }
